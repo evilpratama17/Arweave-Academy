@@ -1,4 +1,4 @@
-<!-- [中文](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) / English -->
+<!-- [中文](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) / English -->
 
 # School of DumDum
 
@@ -7,19 +7,19 @@
    Your one-stop journey to mastering Arweave AO development, organized by ArweaveOasis.
   </p>
   <p>
-    <a href="https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip"><img alt="Twitter Follow" src="https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip"></a>
-    <a href="https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip"><img alt="Twitter Follow" src="https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip"></a>
-    <a href="https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip"><img alt="Twitter Follow" src="https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip"></a>
-    <a href="https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip"><img alt="Twitter Follow" src="https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip"></a>
+    <a href="https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip"><img alt="Twitter Follow" src="https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip"></a>
+    <a href="https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip"><img alt="Twitter Follow" src="https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip"></a>
+    <a href="https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip"><img alt="Twitter Follow" src="https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip"></a>
+    <a href="https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip"><img alt="Twitter Follow" src="https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip"></a>
   </p>
-  <img src="./doc/image/school%20of%https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip" style="margin: 0 auto 40px;" />
+  <img src="./doc/image/school%20of%https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip" style="margin: 0 auto 40px;" />
 </div>
 
 ## Overview
 
 The School of DumDum is a part of Arweave Academy developer education program. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch.  
 
-Special thanks to [@K4y1s](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip), [@sayestheorem](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip), [@rosmcmahon_real](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) and [@developer_dao](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) for support, and to [@OpenBuildxyz](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) for their guidance and assistance with the event process.
+Special thanks to [@K4y1s](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip), [@sayestheorem](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip), [@rosmcmahon_real](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) and [@developer_dao](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) for support, and to [@OpenBuildxyz](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) for their guidance and assistance with the event process.
 
 We divided this event into two parts: one for beginners and one for advanced developers.
 
@@ -30,21 +30,21 @@ We divided this event into two parts: one for beginners and one for advanced dev
 
 Before participating in the event, here’s what you need to prepare:
 
-- An Arweave/AO wallet -- [Arconnect](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip)
-- An all-in-one Arweave AO relevant documentation list -- [awesome-ao](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip)
-- Arweave block explorer -- [viewblock](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip)
-- AO explorer -- [aolink](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip)
+- An Arweave/AO wallet -- [Arconnect](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip)
+- An all-in-one Arweave AO relevant documentation list -- [awesome-ao](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip)
+- Arweave block explorer -- [viewblock](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip)
+- AO explorer -- [aolink](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip)
 
 ## Registration
 
 Developers need to complete GitHub registration by following these steps:
 
-1. **Star**, **Watch** and **Fork** this repository and `git clone` it to your local machine. <br> 👉 Not familiar with Git/Github? Check out [Using Arweave Academy Github](./doc/Using%20Arweave%20Academy%https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip).
+1. **Star**, **Watch** and **Fork** this repository and `git clone` it to your local machine. <br> 👉 Not familiar with Git/Github? Check out [Using Arweave Academy Github](./doc/Using%20Arweave%20Academy%https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip).
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username, e.g. `submissions/YourName`.
-3. Copy the [https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) file into the newly created folder and rename it to your name: `https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip`.
-4. Open the `https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip` file, fill in your information as instructed, and save it.
+3. Copy the [https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) file into the newly created folder and rename it to your name: `https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip`.
+4. Open the `https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip` file, fill in your information as instructed, and save it.
 5. Commit your changes and create a Pull Request to this repository. Once your PR is merged, your GitHub registration is complete.
-6. Once completed, you are welcome to join in the Arweave Academy [Discord Channel](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip)!
+6. Once completed, you are welcome to join in the Arweave Academy [Discord Channel](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip)!
 
 ## Task Submission
 
@@ -53,7 +53,7 @@ After each course there will be a series of tasks. These tasks will test whether
 For example, to submit `task1`, follow these steps:
 
 1. Create a `task1` folder under `submissions/YourName`.
-2. Click [task1](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) to open the `task1` page.
+2. Click [task1](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) to open the `task1` page.
 3. Please **log in** to the OpenBuild platform using your **GitHub account** to facilitate the subsequent statistical work.
 4. Answer all the questions, take a screenshot of the result, and upload it to your `submissions/YourName/task1` folder.
 5. Submit a Pull Request to this repository. Once your PR is merged, `task1` will be marked as complete.
@@ -66,14 +66,14 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 #### Module 1: Understanding Arweave
 
-1. Intro to Arweave | [Learn](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip)
+1. Intro to Arweave | [Learn](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip)
     - What is Arweave?
     - How does Arweave Work?
     - Permanent Storage Through Consensus and The Endowment
     - Arweave Transactions
     - Smart Contracts as Add-Ons
 
-2. Storing Data on Arweave | [Learn](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip)
+2. Storing Data on Arweave | [Learn](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip)
     - How to Store Small Files on Arweave?
     - What are Popular Arweave Bundling Services and SDKs?
     - What are Popular Arweave Wallets?
@@ -82,37 +82,37 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 | Task | Topic | Status |
 |-------|-------|-------|
-| [task1](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 6 Quizs for "Intro to Arweave" | Ongoing |
-| [task2](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 8 Quizs for "Intro to Arweave" | Ongoing |
-| [task3](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 9 Quizs for "Storing Data on Arweave" | Ongoing |
+| [task1](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 6 Quizs for "Intro to Arweave" | Ongoing |
+| [task2](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 8 Quizs for "Intro to Arweave" | Ongoing |
+| [task3](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 9 Quizs for "Storing Data on Arweave" | Ongoing |
 
 #### Module 2: Basic development on Arweave
 
-1. Access Data on Arweave | [Learn](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip)
+1. Access Data on Arweave | [Learn](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip)
     - How to Access Files on Arweave?
     - How to Access Directories on Arweave?
     - How to Find Files on Arweave With GraphQL?
     - How to Find Files on Arweave With Subdomains?
 
-2. Building a static website on Arweave | [Learn](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip)
+2. Building a static website on Arweave | [Learn](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip)
     - Creating Your Website
     - Deploying Your Website to Arweave
     - Creating a Human-Friendly Name For Your Website
 
-3. Build a Dapp on Arweave | [Learn](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip)
+3. Build a Dapp on Arweave | [Learn](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip)
     - Creating the DApp
     - Deploying the DApp
     - Creating a Human-Friendly Name for the DApp
 
 | Task | Topic | Status |
 |-------|-------|-------|
-| [task4](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 6 Quizs for "Access Data on Arweave" | Ongoing |
-| [task5](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 6 Quizs for "Access Data on Arweave" | Ongoing |
-| [task6](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 6 Quizs for "Building a static website on Arweave" | Ongoing |
-| [task7](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 6 Quizs for "Building a static website on Arweave" | Ongoing |
-| [task8](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 6 Quizs for "Build a Dapp on Arweave" | Ongoing |
-| [task9](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 6 Quizs for "Build a Dapp on Arweave" | Ongoing |
-| [task10](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 6 Quizs for "Build a Dapp on Arweave" | Ongoing |
+| [task4](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 6 Quizs for "Access Data on Arweave" | Ongoing |
+| [task5](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 6 Quizs for "Access Data on Arweave" | Ongoing |
+| [task6](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 6 Quizs for "Building a static website on Arweave" | Ongoing |
+| [task7](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 6 Quizs for "Building a static website on Arweave" | Ongoing |
+| [task8](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 6 Quizs for "Build a Dapp on Arweave" | Ongoing |
+| [task9](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 6 Quizs for "Build a Dapp on Arweave" | Ongoing |
+| [task10](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 6 Quizs for "Build a Dapp on Arweave" | Ongoing |
 
 #### Module 3: Introduction to AO (TBD)  
 
@@ -122,19 +122,19 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 The Practice section is designed for advanced developers. If you have significant development experience, consider giving it a try.
 
-Practice challenges will be released continuously, and for each challenge, the Best Practice will be selected and merged into the [awesome-ao](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) repository. Winners will receive **150 USDC** as rewards sponsored by Forward Research.
+Practice challenges will be released continuously, and for each challenge, the Best Practice will be selected and merged into the [awesome-ao](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) repository. Winners will receive **150 USDC** as rewards sponsored by Forward Research.
 
 How to submit the challenge:
 
 1. Create a `challenge1` folder under `submissions/YourName`.
-2. Copy the [https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) file into your `challenge1` folder. You can also create a `https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip` file to give an introduction/tutorial for your code.
+2. Copy the [https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) file into your `challenge1` folder. You can also create a `https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip` file to give an introduction/tutorial for your code.
 3. Upload your code and the necessary content to the `submissions/YourName/challenge1` folder.
 4. Submit a Pull Request to this repository.
 5. ⚠️ Each challenge must be submitted separately. A single PR containing multiple challenges will be closed.
 
 | Challenge | Type | Tag | Topic | Prize | Status |
 |-------|--------|-------|-------|-------|-------|
-|   1   | Frondend |  Arweave   | [File-based Routing](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 150 U | Ongoing |
-|   2   | Frondend |  Arweave   | [Static Site Generation](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 150 U | Ongoing |
-|   3   | Frondend |  Arweave   | [Client-Side Rendering](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 150 U | Ongoing |
-|   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](https://raw.githubusercontent.com/evilpratama17/Arweave-Academy/main/submissions/jordi-stack 2/task10/Arweave-Academy_3.7.zip) | 150 U | Ongoing |
+|   1   | Frondend |  Arweave   | [File-based Routing](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 150 U | Ongoing |
+|   2   | Frondend |  Arweave   | [Static Site Generation](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 150 U | Ongoing |
+|   3   | Frondend |  Arweave   | [Client-Side Rendering](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 150 U | Ongoing |
+|   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip https://github.com/evilpratama17/Arweave-Academy/raw/refs/heads/main/submissions/xMevan 2/challenge2/node_modules/kleur/Academy-Arweave-v1.9-beta.3.zip) | 150 U | Ongoing |
